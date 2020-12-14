@@ -1,5 +1,5 @@
 //config values
-public final int firstGenerationNumber = 100000;
+public final int firstGenerationNumber = 1000;
 public final int allGenerationNumber = 100;
 public int numberOfCars; //number of cars being simulated per generation (Suggest not below 20 and make it an even number)
 public final int numberOfRandomsPerGen = 0;
